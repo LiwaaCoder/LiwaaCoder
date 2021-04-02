@@ -15,8 +15,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="LiwaaCoder | LinkedIn" width="22px" src="https://www.linkedin.com/in/liwaa-hosh-4101711b0/" />][linkedin]
+[<img align="left" alt="LiwaaHosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
