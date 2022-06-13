@@ -34,9 +34,8 @@
 <br />
 ###eXTRAS :
 
--   Python ML BEGINNER 🤣
--   jAVA NewBie 
--   Tennis 
+-   Python 
+-   jAVA  
 
 
 
