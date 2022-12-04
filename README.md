@@ -1,13 +1,11 @@
 ### Hi there , I'm Liwaa  👋
 
 
-## I'm a Student , Developer, And a Thinker !!
 
 - 🔭 I just started my bachelor degree in Software Engineering !!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to football and Calm Music.
+- ⚡ Fun fact: I love to Tennis and Calm Music.
 
 ### Spotify Playing 🎧
 
