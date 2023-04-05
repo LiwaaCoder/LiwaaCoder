@@ -10,9 +10,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/aucpog5gkt8ej3lu2n71xa0yt?si=42b1y7Q9SwCUjwF7UJhnTg) 
-
-<!DOCTYPE html>
-<html>
   <head>
     <title>Liwaa Hosh - CV</title>
   </head>
@@ -65,6 +62,6 @@
       <li>English – Fluent (both written and verbal)</li>
     </ul>
   </body>
-</html>
+
 
 
