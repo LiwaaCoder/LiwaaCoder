@@ -1,44 +1,81 @@
+<!-- Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiU1UfCKAdW/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius: 10px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Liwaa%20Hosh&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20Mobile%20Systems%20%26%20AI&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-  <br/><br/>
+<!-- Typing Intro -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+Systems+Specialist;AI+%26+Automation+Expert;Building+the+Future+🚀" alt="Typing SVG" />
+  </a>
+</div>
 
-  <h1>L I W A A</h1>
-  <h3>Software Engineer • Mobile Systems Specialist • AI Integrator</h3>
-  
-  <p>
-    <i>Architecting scalable solutions and bridging the gap between mobile silicon and AI agents.</i>
-  </p>
+<div align="center">
   
   <br/>
 
   <a href="https://www.linkedin.com/in/liwaa-hosh-4101711b0/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact-Email-333333?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-## ⚡ Technical Arsenel
-
-| **Core Engineering** | **System & Architecture** | **AI & Data** |
-|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![N8N](https://img.shields.io/badge/N8n-FF3366?style=flat-square&logo=n8n&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![LLMs](https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white) |
-
-<br/>
-
-## � Engineering Metrics
+### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiwaaCoder&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiwaaCoder&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="170" />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="45" height="45" alt="Swift" />
+        <br>Swift
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
+        <br>Docker
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-> "Simplicity is the soul of efficiency."
+### 🚀 Engineering Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiwaaCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiwaaCoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiwaaCoder&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Quote-Code_is_Poetry-70a1ff?style=social" />
+</div>
 
